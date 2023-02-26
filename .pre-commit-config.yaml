@@ -25,6 +25,6 @@ repos:
       - id: markdownlint
         additional_dependencies: [rake]
   - repo: https://github.com/maxbrunet/pre-commit-renovate
-    rev: 34.146.0
+    rev: 34.152.5
     hooks:
       - id: renovate-config-validator
